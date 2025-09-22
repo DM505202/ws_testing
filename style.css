@@ -1,1 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+  }
 
+  .title {
+    color: hsl(88, 71%, 30%);
+  }
+
+  .titlesection {
+    background-color: aqua;
+    padding: 200px 300px;
+  }
