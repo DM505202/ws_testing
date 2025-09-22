@@ -8,6 +8,10 @@ body {
   }
 
   .titlesection {
-    background-color: aqua;
-    padding: 200px 300px;
+    background-color: seafoam;
+    padding: 25px 50px;
   }
+
+p {
+    color: red;
+}
